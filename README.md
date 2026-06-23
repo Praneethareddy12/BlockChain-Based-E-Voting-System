@@ -149,19 +149,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-_Add screenshot here_
-
-### Voting Dashboard
-_Add screenshot here_
-
-### Election Results
-_Add screenshot here_
-
----
-
 ## 🔮 Future Enhancements
 
 - Smart Contract Integration
