@@ -1,0 +1,62 @@
+[
+  {
+    "id": "f9e9aed2-9e5b-4999-b861-d83556118c5a",
+    "timestamp": "2026-03-02T08:56:58.269Z",
+    "data": {
+      "voterId": "ABC1234567",
+      "candidate": "Rahul Sharma"
+    },
+    "previousHash": "GENESIS",
+    "hash": "9baff6407b79f833752b910d08d421709e6f35a145cb13e701668c9c0bf9a8df"
+  },
+  {
+    "id": "713dd4f4-fa79-4227-8f51-da1eaeb35f1e",
+    "timestamp": "2026-03-02T08:58:19.538Z",
+    "data": {
+      "voterId": "XYZ1234567",
+      "candidate": "Priya Verma"
+    },
+    "previousHash": "9baff6407b79f833752b910d08d421709e6f35a145cb13e701668c9c0bf9a8df",
+    "hash": "a9e82829a7949ae776f225a242707df08f6f99b49acb0b3128178655ef87ac3c"
+  },
+  {
+    "id": "b22ecbde-b68a-4b85-9870-39de121f4e6c",
+    "timestamp": "2026-03-02T09:12:33.468Z",
+    "data": {
+      "voterId": "ZYZ1234567",
+      "candidate": "Priya Verma"
+    },
+    "previousHash": "a9e82829a7949ae776f225a242707df08f6f99b49acb0b3128178655ef87ac3c",
+    "hash": "8f8fa9dd1b2d5c4773d5d9c1176d365660a1b66d31ef0d0c9d1cce706e8e6f5c"
+  },
+  {
+    "id": "b6440a12-afee-41f7-b7ff-7d15ebb16b38",
+    "timestamp": "2026-03-26T06:01:57.373Z",
+    "data": {
+      "voterId": "ABC1234568",
+      "candidate": "Priya Verma"
+    },
+    "previousHash": "8f8fa9dd1b2d5c4773d5d9c1176d365660a1b66d31ef0d0c9d1cce706e8e6f5c",
+    "hash": "d14dde35abca1233a85cf2910a6cfec43c04d9d23046e2f5eb72a9bde9666885"
+  },
+  {
+    "id": "70e103e7-4dea-45f7-99d1-3055a3a9272c",
+    "timestamp": "2026-03-26T06:29:57.968Z",
+    "data": {
+      "voterId": "ANC1113311",
+      "candidate": "Rahul Sharma"
+    },
+    "previousHash": "d14dde35abca1233a85cf2910a6cfec43c04d9d23046e2f5eb72a9bde9666885",
+    "hash": "9a1b94f7e591a67f4fabd737794ceaeecab94d585b0b2bae0e0fc5864d4f0881"
+  },
+  {
+    "id": "b7ba0898-611b-478b-aa46-2f53146fcc9c",
+    "timestamp": "2026-06-23T18:00:33.076Z",
+    "data": {
+      "voterId": "Pranitha",
+      "candidate": "Neha Iyer"
+    },
+    "previousHash": "9a1b94f7e591a67f4fabd737794ceaeecab94d585b0b2bae0e0fc5864d4f0881",
+    "hash": "c25b678247a9bdb5f304b87e6ebea2a009f0a1bf8931580051633e14621eb8e2"
+  }
+]
